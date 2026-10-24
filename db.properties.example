@@ -1,0 +1,4 @@
+# Copy this file to db.properties (same folder you run the app from) and edit.
+url=jdbc:mysql://localhost:3306/kiyoza?useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=UTC
+user=root
+password=Root25$
